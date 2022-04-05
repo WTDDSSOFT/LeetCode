@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EE59E40427FCBE5700BD149D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE59E40327FCBE5700BD149D /* main.swift */; };
+		EE59E40427FCBE5700BD149D /* RomaIntergeSolution.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE59E40327FCBE5700BD149D /* RomaIntergeSolution.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		EE59E40027FCBE5700BD149D /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE59E40327FCBE5700BD149D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		EE59E40327FCBE5700BD149D /* RomaIntergeSolution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomaIntergeSolution.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		EE59E40227FCBE5700BD149D /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
-				EE59E40327FCBE5700BD149D /* main.swift */,
+				EE59E40327FCBE5700BD149D /* RomaIntergeSolution.swift */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EE59E40427FCBE5700BD149D /* main.swift in Sources */,
+				EE59E40427FCBE5700BD149D /* RomaIntergeSolution.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
